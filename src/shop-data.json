@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "gray baseball cap on white surface",
+    "imageUrl": "https://images.unsplash.com/photo-1521369909029-2afed882baee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aGF0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "price": 25
+  },
+  {
+    "id": 2,
+    "name": "portrait photo of woman wearing gray cowboy hat",
+    "imageUrl": "https://images.unsplash.com/photo-1514327605112-b887c0e61c0a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aGF0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "price": 18
+  },
+  {
+    "id": 3,
+    "name": "man wearing gray cap looking down",
+    "imageUrl": "https://images.unsplash.com/photo-1575428652377-a2d80e2277fc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aGF0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "price": 35
+  },
+  {
+    "id": 4,
+    "name": "assorted color knitted hat ",
+    "imageUrl": "https://images.unsplash.com/photo-1576871337632-b9aef4c17ab9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "price": 25
+  },
+  {
+    "id": 5,
+    "name": "gray scale photo of person's blazer",
+    "imageUrl": "https://images.unsplash.com/photo-1525428020182-b3da25c7ae7d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "price": 18
+  },
+  {
+    "id": 6,
+    "name": "woman in black long sleeve shirt wearing brown hat",
+    "imageUrl": "https://images.unsplash.com/photo-1582791694770-cbdc9dda338f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "price": 14
+  },
+  {
+    "id": 7,
+    "name": "black knit cap on white surface ",
+    "imageUrl": "https://images.unsplash.com/photo-1618354691792-d1d42acfd860?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=415&q=80",
+    "price": 18
+  },
+  {
+    "id": 8,
+    "name": "woman in white long sleeve wearing brown straw hat",
+    "imageUrl": "https://images.unsplash.com/photo-1619987898371-d26ce1f70b52?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=386&q=80",
+    "price": 14
+  },
+  {
+    "id": 9,
+    "name": "grey fitted cap",
+    "imageUrl": "https://images.unsplash.com/photo-1556306535-0f09a537f0a3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "price": 16
+  }
+]
