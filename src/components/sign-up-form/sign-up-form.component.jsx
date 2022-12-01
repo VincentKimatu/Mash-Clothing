@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import FormInput from '../form-input/form-input.component.jsx';
-import './sign-up-form.style.scss';
+import { SignUpContainer, HeadingTwo } from './sign-up-form.style.jsx';
 import Button from '../button/button.component.jsx';
 
 import {
@@ -55,9 +55,9 @@ const SignUpForm = () => {
   };
 
   return (
-    <div className="sign-up-container">
-      <h2>Don't have an account?</h2>
-      <h2>Sign Up with your email and password</h2>
+    <SignUpContainer>
+      <HeadingTwo>Don't have an account?</HeadingTwo>
+      <HeadingTwo>Sign Up with your email and password</HeadingTwo>
       <form onSubmit={handleSubmit}>
         <FormInput
           label="Display Name"
@@ -97,7 +97,7 @@ const SignUpForm = () => {
 
         <Button type="submit">Sign Up</Button>
       </form>
-    </div>
+    </SignUpContainer>
   );
 };
 
